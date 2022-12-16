@@ -1,5 +1,5 @@
 {
-  "since_id": "1516010402135609344",
-  "purge_after": 10,
+  "since_id": null,
+  "purge_after": 3200,
   "whitelist": []
 }
